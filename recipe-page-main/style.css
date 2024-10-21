@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+.attribution {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+}
